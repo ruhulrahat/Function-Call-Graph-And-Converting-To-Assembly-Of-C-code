@@ -1,0 +1,51 @@
+#include <stdio.h>
+
+void func1()
+{
+	func2();
+}
+int func2()
+{
+	return 1;
+}
+
+int main(void)
+{
+	int a, b, i; 
+	a = 0;
+	b = 2;
+	int sum = 0;
+
+	for(i = 0; i < 100; i++)
+		sum +=b;
+
+	printf("result is %d\n", sum);
+	func1();
+
+	return 0;
+}#include <stdio.h>
+
+void func1()
+{
+	func2();
+}
+int func2()
+{
+	return 1;
+}
+
+int main(void)
+{
+	int a, b, i; 
+	a = 0;
+	b = 2;
+	int sum = 0;
+
+	for(i = 0; i < 100; i++)
+		sum +=b;
+
+	printf("result is %d\n", sum);
+	func1();
+
+	return 0;
+}
