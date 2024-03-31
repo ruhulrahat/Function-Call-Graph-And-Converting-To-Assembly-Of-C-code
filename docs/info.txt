@@ -1,0 +1,6 @@
+Software Project Lab - 1 (SPL-1) at IIT University of Dhaka
+
+##Group Members
+Md. Ruhul Amin Rahat (BSSE 0616)
+Feroz Ahmmed (BSSE 0618)
+Md. Nazmul Haque (BSSE 0635)
